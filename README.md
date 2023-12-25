@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Jessiebrig and I started learning C# way back 2019 and you will see here some of my projects that I worked on.
-Most of them was coded 2020 and my latest project is the Slot_Gamer that I developed this July 2022
+- 👋 Hi, I’m @Jessiebrig and I started learning C# way back 2019 and you will see here some of my projects that I have worked on.
+
 
 - 👀 I’m interested in C#, Selenium, Python...
 - 🌱 I’m currently learning Python...

@@ -1,13 +1,30 @@
-- 👋 Hi, I’m @Jessiebrig and I started learning C# way back 2019 and you will see here some of my projects that I have worked on.
+# 👋 Hi, I'm @Jessiebrig
 
+From C# beginnings in 2019 to creating **PySeed** - a Python project template that handles the boring setup stuff.
 
-- 👀 I’m interested in C#, Selenium, Python...
-- 🌱 I’m currently learning Python...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...Here's my email: jessielinarso@gmail.com
+## 🚀 What I'm Building
 
-<!---
-Jessiebrig/Jessiebrig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+**PySeed** - Because setting up a Python project shouldn't be harder than coding it.
+- 🌍 Cross-platform Python project management
+- 🔄 Smart GitHub integration with auto-updates  
+- 🏗️ Menu-driven executable building
+- 🎮 No command-line wizardry required
 
---->
+## 💻 Tech Stack
+- **Python** - Current focus with PySeed ecosystem
+- **C#** - Where it all started back in 2019
+- **Selenium** - Web automation and testing
+- **Django** - Web framework
+
+## 🌱 Currently Working On
+- Expanding PySeed's cross-platform support
+- Building tools that bridge the gap between hobby coding and professional distribution
+- Making Python project setup painless for developers who code for fun
+- Learning Flutter for mobile development
+
+## 🤝 Let's Connect
+- 📫 Email: jessielinarso@gmail.com
+- 💞️ Open to collaborating on developer tools and Python automation projects
+
+---
+*"Focus on your code, not the tooling"* - The PySeed Philosophy
